@@ -10,9 +10,6 @@ Backend Blockchain Developer who has a passion about Blockchain Technology.
 <div align="center">
    <a href="https://www.linkedin.com/in/eminmtas/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://twitter.com/EminTas98" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/eminmtas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
   </a>
   <a href="mailto:eminmtas@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
