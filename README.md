@@ -1,17 +1,24 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Muhammed Emin
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm M. Emin
 
-Backend Blockchain Developer who has a passion about Blockchain Technology.
+| Co-Founder and Ex-President of [Çukurova Blockchain](https://x.com/cukurovablock)
 
----
+| Content Creator and Team Member of [XX Network Turkey](https://x.com/XXNetworkTR)
+
+| [SithSwap](https://x.com/SithSwap)'s Ambassador 
+
+| Computer Engineer
 
 
-## :link:	Stay in touch
+
+
+## :link:	Stay in touch with me!
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/eminmtas/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eminmtas@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/0x_Emin?style=for-the-badge&label=Follow%20on%20Twitter&color=black)](https://x.com/0x_Emin)
 </a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eminmtas/)
+</a>
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eminmtas@gmail.com)
+
 </div>
